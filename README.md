@@ -10,6 +10,8 @@
 
 ###
 
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <p align="left">OS</p>
 
 ###
@@ -120,7 +122,6 @@
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 ###
