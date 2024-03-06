@@ -119,6 +119,7 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 
@@ -150,7 +151,4 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/spiritedonion/count.svg?"  />
 </div>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="quote image"/>
-
 
