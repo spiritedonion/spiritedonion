@@ -119,11 +119,9 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
-<br>
-  
+
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
-
 
 ###
 
