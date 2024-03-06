@@ -151,5 +151,5 @@
   <img src="https://profile-counter.glitch.me/spiritedonion/count.svg?"  />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" height="auto" alt="quote image"/>
+
