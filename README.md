@@ -151,5 +151,6 @@
   <img src="https://profile-counter.glitch.me/spiritedonion/count.svg?"  />
 </div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" height="auto" alt="quote image"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="quote image"/>
+
 
